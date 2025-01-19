@@ -1,6 +1,5 @@
-# MTX-Client - Desenvolvimento Pausado.
-# New Server Oficial : https://discord.gg/batDc6xR
-
+# MTX-Client - Working On DH.
+# New Server Oficial : [https://discord.gg/92BdAunH](https://discord.gg/92BdAunH)
 **Apresentando o  MTX Cliente :**
 
 **▬▬▬▬** O que é MTX Cliente? **▬▬▬▬**
@@ -40,6 +39,7 @@
 
 **▬▬▬▬** Quais Executores Mobile/emulador o MTX client oferece suporte? **▬▬▬▬**
 
+[+] • All Mobile Exploits! : 🟢
 [+] • Arceus X: 🟢
 [+] • Fluxus: 🟢
 [+] • Apple ware: 🟢
@@ -51,6 +51,10 @@
 
 **▬▬▬▬** Quais executores de PC o MTX client oferece suporte? **▬▬▬▬**
 
-[+] • Solara : 🟡
 [+] • Synapse z : 🟢
 [+] • Wave : 🟢
+[+] • Seliware : 🟢
+[+] • Argon : 🟢
+[+] • AWP : 🟢
+[+] • Swift : 🟢
+[+] • Cryptic : 🟢
